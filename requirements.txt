@@ -15,5 +15,3 @@ langchain-huggingface
 pypdf
 sentence-transformers
 
-# CPU-only version of PyTorch (this is the key change)
-torch --index-url https://download.pytorch.org/whl/cpu
